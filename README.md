@@ -14,7 +14,7 @@ If you need a reverse proxy or anything fancy, use a more complex role or add st
 
 - Ubuntu Xenial (16.04)
 
-= Possible Setup:
+== Possible Setup:
 
 # ansible-matrix-synapse
 
