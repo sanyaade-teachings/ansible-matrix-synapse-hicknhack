@@ -1,20 +1,20 @@
-= Ansibe Matrix Synapse
+# Ansibe Matrix Synapse
 
-== About
+## About
 
 This is a simple straight forward setup to get matrix-synapse running on Ubuntu Linux.
 Based upon the galaxy role of Ajay Tripathi (ajay39in@gmail.com)
 
-== Configuration
+## Configuration
 
 Include this role into your ansibel setup for a simpel matrix-synapse server.
 If you need a reverse proxy or anything fancy, use a more complex role or add stuff that you need.
 
-== Works on
+## Works on
 
 - Ubuntu Xenial (16.04)
 
-= Possible Setup:
+# Possible Setup:
 
 # ansible-matrix-synapse
 
